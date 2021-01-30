@@ -2,9 +2,9 @@
 ## Intro to Algorithms - HW
 ### Data Engineering 1-B
 
-|Topic | Knowledge | Know how |
+| Topic | Knowledge | Know how |
 | ------------- | ------------- |
-|Fundamental concepts	| Define concepts and characteristics of algorithms	| Pose algorithms of everyday situations
+| Fundamental concepts	| Define concepts and characteristics of algorithms	| Pose algorithms of everyday situations
 | Algorithm representation	|Differentiate control structures in the design and construction of an algorithm:
 - Selective structures
 - Repetitive structures
