@@ -3,13 +3,14 @@
 ### Data Engineering 1-B
 
 **Juan Carlos Ávila Sánchez**
+
 **Marcos Alberto Couoh Batún**
 | Topic | Knowledge | Know how |
 | ------------- | ------------- | ------------- |
 | Fundamental concepts	| Define concepts and characteristics of algorithms	| Pose algorithms of everyday situations
 | Algorithm representation	|Differentiate control structures in the design and construction of an algorithm: <br /> **- Selective structures** <br /> **- Repetitive structures** <br /> **- Nested structures** <br /> Describe the types of algorithm representation: <br /> - **Graph:** Flow chart <br /> - **Written:** pseudocode ** 	| Represent algorithmic structures in the form of pseudocode and flowchart.|
 
-## ** What is an Algorithm? ** ##
+## What is an Algorithm? ##
 
 An Algorithm is a set of rules that a program must follow to achieve a result.
 Is a recipe of how to get a desirable computational outcome.
