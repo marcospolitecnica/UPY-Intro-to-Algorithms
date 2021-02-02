@@ -1,0 +1,59 @@
+A calculator of 2 integer numbers
+
+START/INIT
+
+int x, y, ## integer of x, y
+char operator ## operator is stated as a character
+
+print "Input First Number" ## Tells the user to put first number
+
+while(true){ ##While cycle starts if the next condition is true
+	read x; ## Reads x
+ 		if(x!=0){ ## Tell if the number of x is 0...
+			break; ## Breaks the cycle 
+ 		} else { ## The cycle of else continues if the number is 0
+    			print "The number can't be zero, please type another number" ##Prints the error
+		}
+
+	}
+print "type the operator (+,,-,/)" ##Tells the user to type an operator
+while(true){ ##While cycle start if there is an operator
+	read operator; ## Reads Operator 
+		if(operator == "+" OR operator == "" OR operator == "-" OR operator == "/"){ ## Looks if there is an operator
+    			break; ## Breaks the cycle if there is no operator
+ 		} else { ##Cycle of else continues if there is no operator
+    			print "invalid operator, please type another operator" ##Prints the error
+ 		}
+
+	}
+
+print "Input second number" ## Tells the user to put second number
+while(true){ ##While cycle starts if the next condition is true
+	read y; ## Reads y
+ 		if(y!= 0){ ## Tell if the number of x is 0...
+    			break; ## Breaks the cycle 
+ 		} else { ##Cycle of else continues if there is 0
+    			print "The number can't be zero, please type another number" ##Prints the error
+	 	}
+
+	}
+
+float res ##Statement of the res (which is the result)
+
+switch (operator) ## Start the switch case
+ case "+" ## A case if there is an addition operator
+  res = x + y ## Statement of res which is Addition of x and y
+  break ##Breaks the cycle once ended
+ case "-" ## A case if there is a substraction operator
+  res = x - y ## Statement of res which is a substraction of x and y
+  break ##Breaks the cycle once ended
+   case "*" ## A case if there is an multiplication operator
+  res = x * y ## Statement of res which is the multiplication of x and y
+  break ## Breaks the cycle once ended
+   case "/" ## A case if there is an division operator
+  res = x / y ## Statement of res which is a division of x and y
+  break ##Breaks the cycle once ended
+  
+print res ##Prints the result of an operation
+
+END/FINISH
