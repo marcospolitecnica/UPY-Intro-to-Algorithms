@@ -41,3 +41,7 @@ Brush my teeth
       If not, rinse more.
   12. Clean brush with enough water.
   13. Done!
+
+Flowcharts sources: 
+
+- [Calculator flowchart](http://www.myhomeworkguides.com/python-program-will-act-calculator-flowchart/)
