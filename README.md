@@ -45,3 +45,4 @@ Brush my teeth
 Flowcharts sources: 
 
 - [Calculator flowchart](http://www.myhomeworkguides.com/python-program-will-act-calculator-flowchart/)
+- [Positive/Negative number flowchart](https://www.csharp-console-examples.com/general/flowchart-examples-for-programming/)
